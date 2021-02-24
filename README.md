@@ -27,14 +27,3 @@ Step 3: Implement Algorithms
 
 Step 4:Evaluate predictions of algorithms
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
-%matplotlib inline
-
-import os
-
-from google.colab import files
-uploaded = files.upload()
